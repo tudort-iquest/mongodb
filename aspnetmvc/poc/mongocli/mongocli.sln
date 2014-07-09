@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30626.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mongocli", "mongocli\mongocli.csproj", "{59E0D27B-E341-460A-98EF-44105A76A47A}"
+EndProject
+Global
+	GlobalSection(CodealikeProperties) = postSolution
+		SolutionGuid = b6505738-eb65-4824-8264-f3af86e28cec
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59E0D27B-E341-460A-98EF-44105A76A47A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59E0D27B-E341-460A-98EF-44105A76A47A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59E0D27B-E341-460A-98EF-44105A76A47A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59E0D27B-E341-460A-98EF-44105A76A47A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
